@@ -108,6 +108,12 @@ h1{
 }
 
 @media screen and (max-width:772px){
+    main{
+        height:100%;
+    }
+    section{
+        height:100%;
+    }
     main .list{
         padding-left: 15%;
     }
