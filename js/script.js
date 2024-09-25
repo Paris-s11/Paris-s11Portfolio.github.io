@@ -1,4 +1,4 @@
-const firstText = "I'm a Web Desiner.|";
+const firstText = "I'm a Web Designer.|";
 const secondText = "I'm a Web Developer.|";
 
 function typeEffect(element, text, index, deleting) {
